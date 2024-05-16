@@ -1,6 +1,6 @@
 ### Decision Sciences Repository
 
-Welcome to the Decision Sciences Repository, a repository related to topics covered on [decisionsciences.blog](https://decisionsciences.blog/). 
+Welcome to the Decision Sciences Repository, a repository related to topics covered on <a href="https://decisionsciences.blog/" target="_blank">decisionsciences.blog</a>.
 
 This repository serves as a comprehensive resource supporting discussions and explorations from my blog on various topics within Decision Sciences. Here, you'll find a diverse collection of models, data sets, and analysis scripts that dive deep into the techniques and methodologies used in Decision Sciences. Whether you're a student, a professional, or simply curious about Decision Sciences, this repository offers valuable insights and practical tools to enhance your understanding and application of these methods.
 
